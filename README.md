@@ -1,4 +1,4 @@
---- Pyro Paint v1.0 ---
+---   PYRO PAINT v.1.0   ---
 
 Pyro Paint is a minimalistic graphical drawing program originally started by Eric Sund
 Copyright (C) 2013  Eric Sund 
@@ -39,8 +39,7 @@ Contact:  Eric Sund; epsund@tormail.org
 > Erase markings from the canvas
 > Create a blank canvas
 > Open an existing canvas
-> Save current canvas as an image to the filesystem
-
+> Save current canvas as an image to the filesystem (.png default format)
 
 
 --- Refrences ---
