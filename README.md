@@ -49,3 +49,7 @@ Contact:  Eric Sund; epsund@tormail.org
 > For Licensing information, please read "License.txt" or click on the "About" section from Pyro Paint's menu.
   Since Pyro Paint uses EasyGUI and Pygame, please read the licenses contained with those.  The licenses for
   EasyGUI and Pygame are included in /modules.
+
+
+
+Note:  This is my first time releasing open source software.  Tell me if I did anything wrong.
